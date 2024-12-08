@@ -10,3 +10,4 @@ F
 >>>>>>> cool-new-feature
 E
 F
+G
